@@ -1,6 +1,6 @@
 # WakeUp-3TG
 
-A 2D platformer game developed by the Kodebolds for the Three Thing Game Jam in May 2018. 
+A 2D side-scroller game developed by the Kodebolds for the Three Thing Game Jam in May 2018. 
 We were given three random words, which we had to incorporate into a game that we had about 24 hours to make. 
 
 Our words were:
